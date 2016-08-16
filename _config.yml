@@ -1,6 +1,6 @@
 name: SEMBEQ Microprogrammes
 favicon: null
-layout_spectrum: 0.9610734877642244
+layout_spectrum: 0.75106
 typography_spectrum: 0.06976905069313943
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#0baf93'
+    - '#001d1a'
+    - '#ffffff'
+    - '#91cebc'
+    - '#485b58'
   brandStrength: 0.09460945380851626
   lightness: 0.7381932709831744
   saturation: 0.5862669018097222
