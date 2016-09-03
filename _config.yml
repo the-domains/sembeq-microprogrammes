@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Évangile 360
+    url: 'http://microprogrammes.ev360.ca'
+    type: external
 favicon: null
 title: Des programmes accessibles et variés
 purpose: []
