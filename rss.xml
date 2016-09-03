@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SEMBEQ Microprogrammes]]></title>
-        <description><![CDATA[SEMBEQ Microprogrammes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Des programmes accessibles et variés]]></title>
+        <description><![CDATA[Des programmes accessibles et variés]]></description>
+        <link>https://thegrid.ai/sembeq-microprogrammes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:12:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 14:00:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sembeq-microprogrammes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Évangile 360]]></title>
-            <description><![CDATA[<article><h1>Évangile 360</h1><p>Ce microprogramme conçu pour les
-jeunes adultes de 16 à 30 ans vise à
-transmettre les fondements nécessaires
-pour vivre l’Évangile au quotidien.
-L’Évangile y est étudié sous tous ses
-angles, afin de l’appliquer à tous les
-niveaux de notre vie.
-    </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d5ec36d-f8e4-4c24-87f6-19ba3274ad86.jpg"></article>]]></description>
-            <link>undefinedevangile-360/index.html</link>
+            <description><![CDATA[<article><h1>Évangile 360</h1><p>Ce microprogramme conçu pour les jeunes adultes de 16 à 30 ans vise à transmettre les fondements nécessaires pour vivre l’Évangile au quotidien. L’Évangile y est étudié sous tous ses angles, afin de l’appliquer à tous les niveaux de notre vie.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d5ec36d-f8e4-4c24-87f6-19ba3274ad86.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sembeq-microprogrammes/evangile-360/index.html</link>
             <guid isPermaLink="false">2f123781-bd9c-4942-b90c-397b83f76ded</guid>
-            <pubDate>Tue, 16 Aug 2016 19:12:54 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 14:00:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
